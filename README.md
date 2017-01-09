@@ -1,3 +1,3 @@
 # gitfiti
 
-My gitfiti painter repository.
+My [gitfiti](https://github.com/gelstudios/gitfiti) painter repository.
